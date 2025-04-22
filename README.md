@@ -33,3 +33,11 @@ An expiration date management app that helps pharmacies and individuals track an
 👤 Kiin Chang  
 📧 Email: wedo101@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/kiinchang9889
+
+---
+
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/rO7r8nSt3ro/0.jpg)](https://youtu.be/rO7r8nSt3ro?si=oCxSYgDhhwYp4lnX)
+
+👉 *Click the image to watch the full Medi-Safer demo on YouTube*

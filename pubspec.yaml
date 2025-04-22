@@ -1,0 +1,81 @@
+name: medi_safer
+description: "MediSafer app"
+publish_to: 'none'
+
+version: 1.0.14+15
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  flutter_riverpod: ^2.5.1
+  get: ^4.6.6
+  logger: ^2.1.0
+  flutter_localizations:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  firebase_core: ^2.27.1
+  firebase_messaging: ^14.7.20
+  fluttertoast: ^8.2.4
+  flutter_local_notifications: ^17.0.0
+  flutter_timezone: ^1.0.8
+  cached_network_image: ^3.3.1
+  lottie: ^3.1.0
+  package_info_plus: ^4.2.0
+  url_launcher: ^6.2.5
+  intl: ^0.18.1
+  cloud_firestore: ^4.15.9
+  kakao_flutter_sdk: ^1.9.0
+  flutter_naver_login: ^1.8.0
+  qr_code_scanner: ^1.0.1
+  loading_animation_widget: ^1.2.1
+  shared_preferences: ^2.2.2
+  dropdown_button2: ^2.3.9
+  html: ^0.15.4
+  wheel_picker: ^0.0.4
+  camera: ^0.10.5+9
+  firebase_auth: ^4.20.0
+  google_sign_in: ^6.2.1
+  google_mlkit_text_recognition: ^0.13.0
+  sign_in_with_apple: ^6.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/fonts/
+    - assets/json/
+  fonts:
+    - family: Pretendard
+      fonts:
+        - asset: assets/fonts/pretendard/Pretendard-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/pretendard/Pretendard-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/pretendard/Pretendard-Light.ttf
+          weight: 300
+        - asset: assets/fonts/pretendard/Pretendard-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/pretendard/Pretendard-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/pretendard/Pretendard-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/pretendard/Pretendard-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/pretendard/Pretendard-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/pretendard/Pretendard-Black.ttf
+          weight: 900
+
+flutter_launcher_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/images/launcher_icon.png"

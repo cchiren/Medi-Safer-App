@@ -25,3 +25,11 @@ An expiration date management app that helps pharmacies and individuals track an
 ---
 
 📌 *Part of a Digital Healthcare Startup Initiative backed by the Ministry of SMEs and Startups (Korea)*  
+
+---
+
+## 📫 Contact & Portfolio
+
+👤 Kiin Chang  
+📧 Email: wedo101@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/kiinchang9889

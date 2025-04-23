@@ -32,7 +32,7 @@ An expiration date management app that helps pharmacies and individuals track an
 
 👤 Kiin Chang  
 📧 Email: wedo101@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/kiinchang9889
+🔗 LinkedIn: https://www.linkedin.com/in/kiinc
 
 ---
 
